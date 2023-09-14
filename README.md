@@ -10,7 +10,7 @@
 Clone o repositório ou copie o código para o seu ambiente de desenvolvimento.
 
 # Execute o script:
-  python github_user_info.py
+  python consumo_api.py
 
 Você será solicitado a inserir o nome de usuário do GitHub que deseja consultar.
 O script enviará uma solicitação à API do GitHub e exibirá as informações do usuário, se encontrado.
