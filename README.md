@@ -31,16 +31,16 @@ Status da execução: 200
 
 - Se o usuário não for encontrado, a saída será:
 
-***** Usuários do GitHub *****
-Qual é o nome do usuário? <digite o nome de usuário>
-<username>
-Usuário não encontrado
+***** Usuários do GitHub *****<br>
+Qual é o nome do usuário? <digite o nome de usuário><br>
+<username><br>
+Usuário não encontrado<br>
 
 Status da execução: 404
 
 - Se ocorrer algum outro erro, a saída será:
 
-***** Usuários do GitHub *****
+***** Usuários do GitHub *****<br>
 Qual é o nome do usuário? <digite o nome de usuário>
 <username>
 Não é possível encontrar o usuário
